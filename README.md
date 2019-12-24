@@ -1,3 +1,3 @@
 # Javascript-Projects
 This is my personal Javascript projects that mostly building apps using reactnative.
-It also has the Fibit to Unity listener.
+It also has the Fibit to Unity listener built from my internship.
